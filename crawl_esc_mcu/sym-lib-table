@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "testnoibec_mcu-rescue")(type "Legacy")(uri "${KIPRJMOD}/testnoibec_mcu-rescue.lib")(options "")(descr ""))
+)
