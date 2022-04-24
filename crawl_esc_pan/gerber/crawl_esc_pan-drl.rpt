@@ -1,5 +1,5 @@
 Drill report for crawl_esc_pan.kicad_pcb
-Created on Fri 22 Apr 2022 05:04:22 PM CEST
+Created on Sun 24 Apr 2022 04:06:46 PM CEST
 
 Copper Layer Stackup:
     =============================================================
@@ -10,13 +10,13 @@ Copper Layer Stackup:
 Drill file 'crawl_esc_pan-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0,300mm  0,0118"  (999 holes)
-    T2  0,914mm  0,0360"  (117 holes)
+    T1  0,300mm  0,0118"  (1005 holes)
+    T2  0,914mm  0,0360"  (123 holes)
     T3  1,100mm  0,0433"  (24 holes)
     T4  2,000mm  0,0787"  (15 holes)
     T5  2,000mm  0,0787"  (15 holes)
 
-    Total plated holes count 1170
+    Total plated holes count 1182
 
 
 Drill file 'crawl_esc_pan-NPTH.drl' contains
